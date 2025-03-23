@@ -14,7 +14,7 @@ function App() {
       <LogosSection />
       <PricingSection />
       <StatsSection />
-      {/* <Features /> */}
+      <Features />
       <Footer />
     </div>
   );
